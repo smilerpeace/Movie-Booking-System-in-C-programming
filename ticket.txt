@@ -1,0 +1,12 @@
+	-------------------THEATER BOOKING TICKET-------------------
+	============================================================
+	Thank you for choosing Eigakan theatres 
+	 Customer name     : ww
+	 Booking number    : 211
+	 Movie name        : Amagi Brilliant Park
+	 Movie time        : 10:00 pm
+	 Number of seats   : 2
+	 Seats             : 77, 78
+	 price             : 140
+	==Thank you. Please Visit us again. Have a wonderful day!===
+	============================================================
